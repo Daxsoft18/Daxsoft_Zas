@@ -1,0 +1,15 @@
+create database sgae;
+
+use sgae;
+
+create table parts (
+id_part int unsigned auto_increment,
+nrf varchar(10) not null,
+u char(5) not null,
+description varchar(50) not null,
+13kv tinyint not null,
+23kv tinyint not null,
+33kv tinyint not null,
+price float not null,
+primary key(id_part)
+);
