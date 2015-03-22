@@ -3,6 +3,8 @@ Sistema gestión empresarial
 
 Version Beta  disponible jajaja.
 
+Si modifican algo comenten que modiifcaron y aumenten la version y revision del archivo  al inicio del mismo 
+
 Para agregar carpetas solo debe hacerse el siguiente formato al dar nombre al archivo:
 
 "nombreCarpeta/nombreSubcarpeta/.../nombreArchivo"
