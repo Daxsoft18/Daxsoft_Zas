@@ -32,7 +32,6 @@ public class Conexion {
     public Connection conexion;
     
     public Conexion() throws SQLException {
-        JOptionPane.showMessageDialog(null,"Aralis");
         conection();
     }
     
